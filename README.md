@@ -1,2 +1,3 @@
-# docker-ecosystem-sandbox
-:bomb: This repository is a sandbox created in order to play with Docker and the ecosystem revolving around this technology. 
+# Docker Ecosystem Sandbox
+## Terminology
+* [Vagrant](https://www.vagrantup.com/): It's a wrapper around virtualizer (like VirtualBox, VMWare or even Docker) which provide a CLI to do automation
