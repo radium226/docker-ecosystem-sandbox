@@ -1,3 +1,4 @@
-# Docker Ecosystem Sandbox
-## Terminology
-* [Vagrant](https://www.vagrantup.com/): It's a wrapper around virtualizer (like VirtualBox, VMWare or even Docker) which provide a CLI to do automation
+# Bac à sable autour de l'ecosystème de Docker
+## Terminologie
+* [Vagrant](https://www.vagrantup.com/): C'est un wrapper autour de VirtualBox qui permet d'automatiser la mise-en-place de machines virtuelles (grâce au `Vagrantfile`, à `vagrant up`, etc.)
+* 
