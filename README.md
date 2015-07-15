@@ -6,3 +6,8 @@
 * **[CoreOS](https://coreos.com/)**: **CoreOS** est une distribution Linux orientée serveur, très légère (pas de package manager), destinée à ne lancer que des instances **Docker** en utilisant des `Unit` pour `systemd`. 
 * [Docker](about:blank):
 * [Flannel](about:blank): Un moyen d'avoir la même table d'IP pour des instances Docker sur des machines différentes. 
+
+## Liens
+* [Tutorial pour **Ansible**](https://github.com/leucos/ansible-tuto)
+* [**Playbook** pour **Ansible** avec pleins de commentaires](https://gist.github.com/marktheunissen/2979474)
+* 
