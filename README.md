@@ -10,4 +10,9 @@
 ## Liens
 * [Tutorial pour **Ansible**](https://github.com/leucos/ansible-tuto)
 * [**Playbook** pour **Ansible** avec pleins de commentaires](https://gist.github.com/marktheunissen/2979474)
-* 
+* [**Weave** et **Ansible** sur **AWS**](http://weave.works/guides/weave-ansible-docker-haproxy-aws.html)*
+* [**Kubernetes** avec **Vagrant**](http://lollyrock.com/articles/kubernetes-vagrant/)
+* [**CoreOS** et **Flannel**](https://sreeninet.wordpress.com/2015/01/18/docker-networking-coreos-flannel/)
+* [Construire une **Box** pour **Vagrant**](https://blog.engineyard.com/2014/building-a-vagrant-box)
+* [**Kubernetes** sur **CoreOS** avec **Ansible**](https://github.com/erikdejonge/coreos-kubernetes-vagrant-ansible-demo)
+* [Data-only Pattern pour **Docker**](http://container42.com/2013/12/16/persistent-volumes-with-docker-container-as-volume-pattern/)
