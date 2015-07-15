@@ -16,3 +16,4 @@
 * [Construire une **Box** pour **Vagrant**](https://blog.engineyard.com/2014/building-a-vagrant-box)
 * [**Kubernetes** sur **CoreOS** avec **Ansible**](https://github.com/erikdejonge/coreos-kubernetes-vagrant-ansible-demo)
 * [Data-only Pattern pour **Docker**](http://container42.com/2013/12/16/persistent-volumes-with-docker-container-as-volume-pattern/)
+* [**Kubernetes** sur **CoreOS** avec **Fleet** et **Flannel**](https://github.com/kelseyhightower/kubernetes-fleet-tutorial)
